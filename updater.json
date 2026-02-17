@@ -8,13 +8,6 @@
       "pwd": "aviroxis"
     },
     {
-      "file": "updater.exe",
-      "hash": "64dd6194b7a4de7087fdb3b528919a7482e446c2ae50a33d35da89e55bb4c6fb",
-      "url": "",
-      "zip": true,
-      "pwd": "updater"
-    },
-    {
       "file": "uninstall.exe",
       "hash": "unknown",
       "url": "",
