@@ -1,4 +1,32 @@
 {
-  "uhash": "64dd6194b7a4de7087fdb3b528919a7482e446c2ae50a33d35da89e55bb4c6fb",
-  "ahash": "6ef820d0b00817da061f491efee251bc17a06f43fe9e273b3d39c30c2c28d972"
+  "files": [
+    {
+      "file": "app.exe",
+      "hash": "6ef820d0b00817da061f491efee251bc17a06f43fe9e273b3d39c30c2c28d972",
+      "url": "",
+      "zip": true,
+      "pwd": "app"
+    },
+    {
+      "file": "updater.exe",
+      "hash": "64dd6194b7a4de7087fdb3b528919a7482e446c2ae50a33d35da89e55bb4c6fb",
+      "url": "",
+      "zip": true,
+      "pwd": "updater"
+    },
+    {
+      "file": "uninstall.exe",
+      "hash": "unknown",
+      "url": "",
+      "zip": true,
+      "pwd": "uninstaller"
+    }
+  ],
+  "installer": {
+      "file": "installer.exe",
+      "hash": "unknown",
+      "url": "",
+      "zip": true,
+      "pwd": "installer"
+    }
 }
