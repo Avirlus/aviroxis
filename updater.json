@@ -2,23 +2,23 @@
   "files": [
     {
       "file": "aviroxis.exe",
-      "hash": "6ef820d0b00817da061f491efee251bc17a06f43fe9e273b3d39c30c2c28d972",
-      "url": "",
+      "hash": "ce3b279863e959ba5368eae9fdd056c1b3927b3f76f72706a486da1af2d36ba5",
+      "url": "https://drive.google.com/uc?export=download&id=1LC38r4y8N48o_mO919AOqbqqqaJl11Sz",
       "zip": true,
       "pwd": "aviroxis"
     },
     {
       "file": "uninstall.exe",
-      "hash": "unknown",
-      "url": "",
+      "hash": "c645874f063864731087082ac2654e492c841ba78610ae7c2fc0b2fb49309cc1",
+      "url": "https://drive.google.com/uc?export=download&id=10_76V85ZkiIGqRppF1WM5Aom9VV-PaUR",
       "zip": true,
       "pwd": "uninstaller"
     }
   ],
   "installer": {
       "file": "installer.exe",
-      "hash": "unknown",
-      "url": "",
+      "hash": "db9f811b90514b05ad3d5c97c62c897fb1631122d33e3cb53af673be42581928",
+      "url": "https://drive.google.com/uc?export=download&id=1_Jhi7nRqgsVjYwIIuVePEmzPeQ7DrbAs",
       "zip": true,
       "pwd": "installer"
     }
