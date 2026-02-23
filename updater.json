@@ -1,8 +1,10 @@
 {
   "app": [
     {
-      "file": "aviroxis.exe",
-      "hash": "ce3b279863e959ba5368eae9fdd056c1b3927b3f76f72706a486da1af2d36ba5",
+      "files": {
+        "file": "aviroxis.exe",
+        "hash": "ce3b279863e959ba5368eae9fdd056c1b3927b3f76f72706a486da1af2d36ba5"
+      },
       "url": "https://drive.google.com/uc?export=download&id=1SVziY5ewDNIRW4Xs7Z1rcTJNLLNLOHe2",
       "pwd": "aviroxis",
       "reinstall": true
