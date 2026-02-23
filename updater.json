@@ -4,7 +4,7 @@
       "files": [
         {
           "file": "aviroxis.exe",
-          "hash": "ce3b279863e959ba5368eae9fdd056c1b3927b3f76f72706a486da1af2d36ba"
+          "hash": "05b9b59a0d54b6523f28ca08058b84828cf8c02eed1edcf7f67c7220f6e0ef3d"
         }
       ],
       "url": "https://drive.google.com/uc?export=download&id=1bFCuj2EzwynnbAkqJPsMW8DvDk7pOSLI",
@@ -16,7 +16,7 @@
 
   ],
   "installer": {
-      "hash": "db9f811b90514b05ad3d5c97c62c897fb1631122d33e3cb53af673be4258192",
+      "hash": "61368b093aeb290ddf79cb54bb9649d7c6ee9e0d2afa28ab31353e8ed2fa8851",
       "url": "https://drive.google.com/uc?export=download&id=1MwL7qS7XKYsFKa5Z_Vs8aRWUu88six1o",
       "pwd": "installer",
       "run": "installer.exe"
