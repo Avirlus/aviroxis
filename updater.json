@@ -3,28 +3,17 @@
     {
       "file": "aviroxis.exe",
       "hash": "ce3b279863e959ba5368eae9fdd056c1b3927b3f76f72706a486da1af2d36ba5",
-      "url": "https://drive.google.com/uc?export=download&id=1LC38r4y8N48o_mO919AOqbqqqaJl11Sz",
+      "url": "https://drive.google.com/uc?export=download&id=1SVziY5ewDNIRW4Xs7Z1rcTJNLLNLOHe2",
       "pwd": "aviroxis",
       "reinstall": true
     }
   ],
   "data": [
-    {
-      "files": [
-        {
-          "file": "game1.json",
-          "hash": "...",
-          "reinstall": false
-        }
-      ],
-      "url": "...",
-      "pwd": "games",
-      "reinstall": false
-    }
+
   ],
   "installer": {
       "hash": "db9f811b90514b05ad3d5c97c62c897fb1631122d33e3cb53af673be42581928",
-      "url": "https://drive.google.com/uc?export=download&id=1_Jhi7nRqgsVjYwIIuVePEmzPeQ7DrbAs",
+      "url": "https://drive.google.com/uc?export=download&id=1IEeXBhofOtcv7XbjcPmBBHvDN8VhV2bm",
       "pwd": "installer",
       "run": "installer.exe"
     }
