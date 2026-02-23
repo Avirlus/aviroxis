@@ -7,7 +7,7 @@
           "hash": "d2dd2bfd0e79214ec34e7a975e383fc2348b3f2648378532539bc73fcd80242b"
         }
       ],
-      "url": "https://drive.google.com/uc?export=download&id=1t-GF5q-y6H-utaKsAF5_MvOz7pO4BP9u",
+      "url": "https://drive.google.com/uc?export=download&id=1tjhGI9b2n9qLn15-pClwgc-rk1rWXEFz",
       "pwd": "aviroxis",
       "reinstall": true
     }
@@ -17,7 +17,7 @@
   ],
   "installer": {
       "hash": "3af82cad4c76b1f3169add638edd4c54a7df58b025ca3cd3e9ffe9042bff5679",
-      "url": "https://drive.google.com/uc?export=download&id=1tjhGI9b2n9qLn15-pClwgc-rk1rWXEFz",
+      "url": "https://drive.google.com/uc?export=download&id=1D1Ey7oC524sfyrHq4nADDs_XLlZiQhi8",
       "pwd": "installer",
       "run": "installer.exe"
     }
