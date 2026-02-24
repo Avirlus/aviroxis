@@ -1,7 +1,7 @@
 {
   "installer": {
-    "hash": "e174bb97f28f48ac09f58e0b85c2cd1cdf0119a32c3a1d452e5a2e96cdbf1411",
-    "url": "https://drive.google.com/uc?export=download&id=1iHV8PFrgVSrIb28sq4ghn6xnZvBqdwqN",
+    "hash": "b36d54b245857f4ef36f023b705908bc0320ba9b25d0fe1efe89d98f7d720ead",
+    "url": "https://drive.google.com/uc?export=download&id=1suY2EDVgpngPKvQDQu2qWaK-9GSOJ2mI",
     "pwd": "installer",
     "run": "installer.exe"
   },
