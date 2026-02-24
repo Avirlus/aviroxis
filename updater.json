@@ -387,11 +387,6 @@
     }
   ],
   "data": [
-    {
-      "url": "Ссылка на архив с содержимым src/data",
-      "pwd": "data",
-      "reinstall": false,
-      "files": []
-    }
+
   ]
 }
