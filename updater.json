@@ -1,24 +1,397 @@
 {
+  "installer": {
+    "hash": "e174bb97f28f48ac09f58e0b85c2cd1cdf0119a32c3a1d452e5a2e96cdbf1411",
+    "url": "https://drive.google.com/uc?export=download&id=1iHV8PFrgVSrIb28sq4ghn6xnZvBqdwqN",
+    "pwd": "installer",
+    "run": "installer.exe"
+  },
   "app": [
     {
+      "url": "https://drive.google.com/uc?export=download&id=1IciwYMjr5rNQo5w_VCggsXmRC8k4gbpp",
+      "pwd": "aviroxis",
+      "reinstall": true,
       "files": [
         {
+          "file": "7zr.exe",
+          "hash": "4bec0bc59836a890a11568b58bd12a3e7b23a683557340562da211b6088058ba"
+        },
+        {
           "file": "aviroxis.exe",
-          "hash": "d2dd2bfd0e79214ec34e7a975e383fc2348b3f2648378532539bc73fcd80242b"
+          "hash": "b90d46f9abb48ac8776b827a3638b4b9c67344dc5981cc2f5c13b9ad7bae04a9"
+        },
+        {
+          "file": "dde.pyd",
+          "hash": "02cecf564848a1981e350159f5c4f95e252395e58a80100bf418b194bd975949"
+        },
+        {
+          "file": "libcrypto-3.dll",
+          "hash": "ccfffddcd3defb8d899026298af9af43bc186130f8483d77e97c93233d5f27d7"
+        },
+        {
+          "file": "libffi-8.dll",
+          "hash": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a"
+        },
+        {
+          "file": "libssl-3.dll",
+          "hash": "007142039f04d04e0ed607bda53de095e5bc6a8a10d26ecedde94ea7d2d7eefe"
+        },
+        {
+          "file": "mfc140u.dll",
+          "hash": "643ce7fe6a203c53a96a00f272a1a5b42d5b0c320c84364a6fe866307a19bb65"
+        },
+        {
+          "file": "mmapfile.pyd",
+          "hash": "fce0389fa984f2f907c3e2067690e6509bfba336bc8581b9af06688fde7bc1d8"
+        },
+        {
+          "file": "odbc.pyd",
+          "hash": "3d56da97ec3b7a7d4f44f29fb88bbc45dfe8b1d685a0fe28bbcbacfbb9cfda58"
+        },
+        {
+          "file": "perfmon.pyd",
+          "hash": "743045362dcc4b3a77ba02daacbbec2856d611d10720a4a4a58d1b948023c6bb"
+        },
+        {
+          "file": "pyexpat.pyd",
+          "hash": "719dc29fee125f0d5026319da9a3001c130c84419db7ef7c5473fb496d56cfc2"
+        },
+        {
+          "file": "python3.dll",
+          "hash": "4ae581aa4e65fef9f92c84c428c990892da538b4d9289592df51fa31fd879770"
+        },
+        {
+          "file": "python313.dll",
+          "hash": "41ec4fc4e5bc8b207258590238f7f050b13fdfee84c4a7b1ecff6e945d031a10"
+        },
+        {
+          "file": "pythoncom313.dll",
+          "hash": "e312c8edb2d43a014daddfa984a805e6b5f933c60777e7b527332e682d9b1813"
+        },
+        {
+          "file": "pywintypes313.dll",
+          "hash": "9bb6dece38380abc747dce9ba8b0834a2bec469bc942dbcc8658e30ebdfb59a4"
+        },
+        {
+          "file": "select.pyd",
+          "hash": "9cc1ef0264060099503592db57ee7d7c1f8d6bea689b2ed125919c7a30b7ab7f"
+        },
+        {
+          "file": "servicemanager.pyd",
+          "hash": "8f60e4c9f33898cd0bea1c8edfa5e3937f801118bfc1b97b7251d833339d4bad"
+        },
+        {
+          "file": "timer.pyd",
+          "hash": "669fefd959df21a6d36f694fe2af5ca517858815ca66c8277f0480a9b3faf2a6"
+        },
+        {
+          "file": "unicodedata.pyd",
+          "hash": "1989628f16052f9123c5cf603e96490a75fde6228315457556f96a838bf9e904"
+        },
+        {
+          "file": "vcruntime140.dll",
+          "hash": "052ad6a20d375957e82aa6a3c441ea548d89be0981516ca7eb306e063d5027f4"
+        },
+        {
+          "file": "vcruntime140_1.dll",
+          "hash": "6a99bc0128e0c7d6cbbf615fcc26909565e17d4ca3451b97f8987f9c6acbc6c8"
+        },
+        {
+          "file": "win32api.pyd",
+          "hash": "b80722e54741563e72e264ca33e1900ee49c927c475e54ef8f94c3eac9032465"
+        },
+        {
+          "file": "win32clipboard.pyd",
+          "hash": "955996e5867c1bf34e10838d462b413986e0911a9ffc3484076a03ac945fadc7"
+        },
+        {
+          "file": "win32console.pyd",
+          "hash": "b2b3f282c593660ef5524ec3c231989f839e23acf01571206c44589e5b597afb"
+        },
+        {
+          "file": "win32cred.pyd",
+          "hash": "f7dd953f24e800eaa4719fd5423c51f9d6987c9eebd5ee5fcab42a4295638ae4"
+        },
+        {
+          "file": "win32crypt.pyd",
+          "hash": "f07fbdcebda155ece29f64a4ca199db544bfa1f3472661f20b569d2b56926123"
+        },
+        {
+          "file": "win32event.pyd",
+          "hash": "b70d2aebb12d2a0c8d100f37e109319407cf025fc406ef23d13c1b5ddb64370a"
+        },
+        {
+          "file": "win32evtlog.pyd",
+          "hash": "d8b40e7c79cf6821b2e7bab2ed279449f42510f3805f783c2fb9f1403481e1f3"
+        },
+        {
+          "file": "win32file.pyd",
+          "hash": "9c2ef4a8b2224a8048a76f3be26b616c04379e853f1e45fbab87d75ce89c1d6d"
+        },
+        {
+          "file": "win32gui.pyd",
+          "hash": "6c545bd22720a7088c1353e5e554ded4db5db4c1b164689e7d42acf312561aca"
+        },
+        {
+          "file": "win32help.pyd",
+          "hash": "00fd809b67f271712d20423c07b45081c51c227b6f416b9d27d584dedcb62de2"
+        },
+        {
+          "file": "win32inet.pyd",
+          "hash": "c570f14ed44a5d0d4b1c31b1e2b77eebd6770031b3ebcd12c33d5f653e0fa051"
+        },
+        {
+          "file": "win32job.pyd",
+          "hash": "2332ea4e7b22ffaa0c9cf6f98a16a086632978fad5b0fa24110b4e5554f45588"
+        },
+        {
+          "file": "win32lz.pyd",
+          "hash": "3e30018e339eb081b3eabaf61077f50b4af58fa6184c9ed8857d797e60c4d91b"
+        },
+        {
+          "file": "win32net.pyd",
+          "hash": "22cadf6d6ae1fedb3f38b6d5d0be8a8d2d37321d1f7e4215caa010b38c3723b9"
+        },
+        {
+          "file": "win32pdh.pyd",
+          "hash": "38a92aff88f58e35824fdae5b202692d4e003142120bb5032f05332a350ba54e"
+        },
+        {
+          "file": "win32pipe.pyd",
+          "hash": "5ab3cc5b6f48b839259680688dd51f386e0cd55a39d35e412a88ad68bfcf5b3e"
+        },
+        {
+          "file": "win32print.pyd",
+          "hash": "1a5a443d9154e6a3cf62fe39dd7f40a3fea272c297ac1e0aa9e10c0b0ea68bad"
+        },
+        {
+          "file": "win32process.pyd",
+          "hash": "9d99c96c6d2e15fc52ed9444dc880ebfb358fbcd1f659ddf8af1a233033294ce"
+        },
+        {
+          "file": "win32profile.pyd",
+          "hash": "2dff78afe08bd30ba5fb5a44c2ff255a0542f6ec6f0471c59e9c5b80a7261fab"
+        },
+        {
+          "file": "win32ras.pyd",
+          "hash": "54bb5ebe878179c67f3716f06f12633b08a0f695396f227016c8247d208cdadc"
+        },
+        {
+          "file": "win32security.pyd",
+          "hash": "99b4fd9f47602371380c8579489b0c6fdc88d7776224062ba6c39b185c4e9001"
+        },
+        {
+          "file": "win32service.pyd",
+          "hash": "eb3ea4dab12ecfb5296627435d2d0425d80e02ff73f586af166687a60215fff7"
+        },
+        {
+          "file": "win32trace.pyd",
+          "hash": "a5f35e4db0dfe0c77871169b477e95c2b87609a75a376167b1e96220c008819a"
+        },
+        {
+          "file": "win32transaction.pyd",
+          "hash": "2bf0766a55341eb93ec66f52ee4b1dacae76c2d6627b3e20f9208e02676b9c50"
+        },
+        {
+          "file": "win32ts.pyd",
+          "hash": "ae5ae7a1627757f5a54aca56e715d8d1546475c480b9ef21b99f0db9e26d6a58"
+        },
+        {
+          "file": "win32ui.pyd",
+          "hash": "8a9f51b9a5152ef0b0fe3c5017af1f7004036311bdb806eb7987305ce9f1651f"
+        },
+        {
+          "file": "win32uiole.pyd",
+          "hash": "4185b286d6fd54aa4ea3cc86be9a87e0311886e9a0fb78ad0835399b7bf61e1b"
+        },
+        {
+          "file": "win32wnet.pyd",
+          "hash": "8a1f2ee42a14ef45f95f90c33c863a80aa67648e6394331f27f34345942bbb6c"
+        },
+        {
+          "file": "_asyncio.pyd",
+          "hash": "675587b1155c875ab27e24302d53f38e41febd3c080bc190c3e4ffbdb51fe76b"
+        },
+        {
+          "file": "_brotli.pyd",
+          "hash": "a7f83086a999a01db0ca8cba6d476b4aa74ec2f96292cf4e17446dd30c085c61"
+        },
+        {
+          "file": "_bz2.pyd",
+          "hash": "b3dd7cea6d03342252834cebcc814af37d850b86d0627fa22b7f6990882f2f8b"
+        },
+        {
+          "file": "_cffi_backend.pyd",
+          "hash": "0e3d149b91fc7dc3367ab94620a5e13af6e419f423b31d4800c381468cb8ad85"
+        },
+        {
+          "file": "_ctypes.pyd",
+          "hash": "dfa65498c77e71f038883337d2b5ffd92508489e79e6ee5e96ddec4ecf2a7fa1"
+        },
+        {
+          "file": "_decimal.pyd",
+          "hash": "f55d81378a3261a7073fb71aee674152265b6f24ba6f375f9b939d5a117d8e6b"
+        },
+        {
+          "file": "_elementtree.pyd",
+          "hash": "58339737dd818a6d0bac98403158677f2f7d54adc7c673b9a8a18c8b19ab11f6"
+        },
+        {
+          "file": "_hashlib.pyd",
+          "hash": "1a3010b06c2fcd625dece3dd0883ca060e98b94adc062b06cb1a671cfc3b5caf"
+        },
+        {
+          "file": "_lzma.pyd",
+          "hash": "f20be6a9fee8fb5d53170c4bc24a39b48d3c0ccbe8e2000e60ff7d65b77c6ea1"
+        },
+        {
+          "file": "_multiprocessing.pyd",
+          "hash": "6c4ca996eafc99aeb246d25b5a9499d01488b643dcdabee6b48137f179b3deef"
+        },
+        {
+          "file": "_overlapped.pyd",
+          "hash": "626675dc9fc5c74beb72cd278322a8313b68b22161e34473f8b951c238e72185"
+        },
+        {
+          "file": "_queue.pyd",
+          "hash": "1e349a13913370369059a4ae5951157112b5eba53ed4389c18ffc5e00af1a037"
+        },
+        {
+          "file": "_socket.pyd",
+          "hash": "127a39d2198f17dd9b573904fe7e4040c7c8718753e6c4edee2ff6c35f487fac"
+        },
+        {
+          "file": "_ssl.pyd",
+          "hash": "faf716d309349dbd54efd7fb402bd42ed21a537614ac0da89ed92ba307ecbf15"
+        },
+        {
+          "file": "_uuid.pyd",
+          "hash": "6748c182df6181cff8691da72dbb81f4f7f446ac7482d5dfe671f2b5333aed5d"
+        },
+        {
+          "file": "_win32sysloader.pyd",
+          "hash": "b11b641fc73ab5cc8853e0e7384147ee97056a2508927129dc385237e5a70b3a"
+        },
+        {
+          "file": "_winxptheme.pyd",
+          "hash": "1ad5a513e7fed3416cd08041815ae9d0836f63828ac1a3d5136f30350101f708"
+        },
+        {
+          "file": "_wmi.pyd",
+          "hash": "3be5e14e9a9dc49f099209dee98b9cb5e31ade3b0deab52277026bb14df5bdb6"
+        },
+        {
+          "file": "certifi/cacert.pem",
+          "hash": "9102e6a3644a071ba6cdbd4a53698f291c4a64b18450a08bc046548b6db5cc8b"
+        },
+        {
+          "file": "charset_normalizer/md.pyd",
+          "hash": "4e66da1baef3b663ab8f48feed4ed1d72e977b4209240595d2c440071bc632c8"
+        },
+        {
+          "file": "charset_normalizer/md__mypyc.pyd",
+          "hash": "a26b6459a25f1e9b600ac3df6b2c4f30d7f9d643292546b85ccb763d49fdea90"
+        },
+        {
+          "file": "clr_loader/ffi/dlls/amd64/ClrLoader.dll",
+          "hash": "e6cb8b51dbd5d5b5548696e6ddf17875af73b8abd99ca1572d32b1df98028591"
+        },
+        {
+          "file": "cryptography/hazmat/bindings/_rust.pyd",
+          "hash": "9c6fdbb4df076d0eb62888e0fc8842985d4943fc05b98679aff05dc6522af19b"
+        },
+        {
+          "file": "greenlet/_greenlet.pyd",
+          "hash": "d1c0469e96252ad2047c9692427c953f905e0f0cca7bd4cb7ddd2441330986d6"
+        },
+        {
+          "file": "lxml/builder.pyd",
+          "hash": "bfee73fd61e2c2fa578b8f6c766872f5f7fd853ba0ef15324ba0c17a5d99164e"
+        },
+        {
+          "file": "lxml/etree.pyd",
+          "hash": "68a4f3fed1258c6d0938ad568194597e49970714dec94ea042195447765c4c18"
+        },
+        {
+          "file": "lxml/objectify.pyd",
+          "hash": "79da986efe73ae50dfbc0f6a05e2ec027a72dcfe17aa685b1d0fc3f7951ca27a"
+        },
+        {
+          "file": "lxml/sax.pyd",
+          "hash": "73f3f2e92288c9cf180ea145b223e54d72ff30900e7ebde95a638ad14bcc9f37"
+        },
+        {
+          "file": "lxml/_elementpath.pyd",
+          "hash": "dfa1f214658c26bf9b634c4a38ef19d982730e34563a43878af9282a45d420f7"
+        },
+        {
+          "file": "markupsafe/_speedups.pyd",
+          "hash": "ecc035da3d1a52249e369172fbdf21fe93d2aa00a92de45a720a7723e8f4d18a"
+        },
+        {
+          "file": "pythonnet/runtime/Python.Runtime.dll",
+          "hash": "d204ad74dc18cd07320c8e665bd32ec6549b555ce97e61e4d3cf88437a64988e"
+        },
+        {
+          "file": "webview/js/api.js",
+          "hash": "cb68b8bed427fa356aea26376e497552f55d91329c093c026a65230d074e2b27"
+        },
+        {
+          "file": "webview/js/customize.js",
+          "hash": "ed14d0b594266dfe3834cc8565b44a8157420432aeef4f733ab505bd6ed89b8a"
+        },
+        {
+          "file": "webview/js/finish.js",
+          "hash": "751443083dd1d2b2ef4142692f25bc4f6e04f8de4d82c455c73473700f00c8cb"
+        },
+        {
+          "file": "webview/js/state.js",
+          "hash": "68ee87ec01563cbcab77a57704a32f19b47436c9d5e254bfba9675a51c132075"
+        },
+        {
+          "file": "webview/js/lib/dom_json.js",
+          "hash": "70fae2a8a8ebc790dc616aa7976074cedd802275c173c90ad4bf3bd14163f9c4"
+        },
+        {
+          "file": "webview/js/lib/polyfill.js",
+          "hash": "481a08f5337a770acf49b38c2f58dd0c95f92bf9dbd92bf82b596836ea343ab5"
+        },
+        {
+          "file": "webview/lib/Microsoft.Web.WebView2.Core.dll",
+          "hash": "cb8c852fcc4ef55d630b64d171dc11538bb25258041ed22cf31735982a2e09e3"
+        },
+        {
+          "file": "webview/lib/Microsoft.Web.WebView2.WinForms.dll",
+          "hash": "e62056bee28ab094071144b47371009a6fbc162f9aea184719f2e86ed515f7f8"
+        },
+        {
+          "file": "webview/lib/pywebview-android.jar",
+          "hash": "3f9d3eeeda09ce58badbd742a981a463c067c339c8b4e70b404c00ebb4ec73a3"
+        },
+        {
+          "file": "webview/lib/WebBrowserInterop.x64.dll",
+          "hash": "f6a646470f0e1058224a52e8e2e217501dca46939b30bfc9a5dd4dcdd43f088d"
+        },
+        {
+          "file": "webview/lib/runtimes/win-x64/native/WebView2Loader.dll",
+          "hash": "271b57e3ec03c436a15d80cafeb9fd1618a43793233d8b05c9446f8de0a51be4"
+        },
+        {
+          "file": "zstandard/backend_c.pyd",
+          "hash": "e05f3f106d6a907d3402a9543dbd0bef6cc28dbb63377685ebd65af87bfb03d1"
+        },
+        {
+          "file": "zstandard/_cffi.pyd",
+          "hash": "fb35af2c4faa3f779448f1fa93bddb9ecfcd9d4b254475daa416c5b61bce19df"
         }
-      ],
-      "url": "https://drive.google.com/uc?export=download&id=1tjhGI9b2n9qLn15-pClwgc-rk1rWXEFz",
-      "pwd": "aviroxis",
-      "reinstall": true
+      ]
     }
   ],
   "data": [
-
-  ],
-  "installer": {
-      "hash": "3af82cad4c76b1f3169add638edd4c54a7df58b025ca3cd3e9ffe9042bff5679",
-      "url": "https://drive.google.com/uc?export=download&id=1D1Ey7oC524sfyrHq4nADDs_XLlZiQhi8",
-      "pwd": "installer",
-      "run": "installer.exe"
+    {
+      "url": "Ссылка на архив с содержимым src/data",
+      "pwd": "data",
+      "reinstall": false,
+      "files": []
     }
+  ]
 }
