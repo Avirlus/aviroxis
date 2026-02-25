@@ -387,6 +387,20 @@
     }
   ],
   "data": [
-
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1KVKtbD_IHX5r-VOp9L1ttk7BMTgQcp5G",
+      "pwd": "data",
+      "reinstall": false,
+      "files": [
+        {
+          "file": "games/English/11/CrimeInTheLaw_1BigGame.json",
+          "hash": "84cef4d2abfc1429a4479cebc35e41d934c0e45c20e437b0362b10561bd17d75"
+        },
+        {
+          "file": "games/English/11/CrimeInTheLaw_5MiniGames.json",
+          "hash": "d95031588d8c1ecc3c4265403ad201efd5529d54a14afc9c2b7b814024af89bd"
+        }
+      ]
+    }
   ]
 }
